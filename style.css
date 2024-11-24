@@ -13,7 +13,6 @@ body {
   justify-content: center;
   height: 100vh;
   overflow: hidden;
-  margin: 0;
 }
 
 .prev-proj {
@@ -66,7 +65,8 @@ h3 {
 }
 
 .container {
-  width: 500px;
+  max-width: 500px;
+  margin: 0 auto;
 }
 
 textarea {
