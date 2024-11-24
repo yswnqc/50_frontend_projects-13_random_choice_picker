@@ -14,4 +14,4 @@
 
 From [50projects50days](https://50projects50days.com).
 
-[PREV](https://github.com/yswnqc/50_frontend_projects-12_faq_collapse) | [NEXT]() PROJECT
+[PREV](https://github.com/yswnqc/50_frontend_projects-12_faq_collapse) | [NEXT](https://github.com/yswnqc/50_frontend_projects-14_animated_navigation) PROJECT
